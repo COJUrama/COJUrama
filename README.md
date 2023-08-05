@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uramacoju
-- 👀 I continously delve into numerous topics to expand my understanding. Design, Programming, and Psychology are some of my key interests.
+- 👀 I continuously delve into numerous topics to expand my understanding. Design, Programming, and Psychology are some of my key interests.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me https://twitter.com/uramacoju
 
