@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uramacoju
+- 👋 Hi
 - 👀 I continuously delve into numerous topics to expand my understanding. Design, Programming, and Psychology are some of my key interests.
 - 🌱 I’m currently learning Web Developement
 - 📫 How to reach me https://twitter.com/uramacoju
